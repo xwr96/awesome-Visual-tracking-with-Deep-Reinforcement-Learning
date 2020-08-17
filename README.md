@@ -1,5 +1,6 @@
 # Visual-tracking-with-Deep-Reinforcement-Learning
-## This Repo include some paperlist and code with visual tracking based on deep reinforcement。
+## This Repo include some paperlist and code with visual tracking based on deep reinforcement Learning
+
 
 1、Yun S , Choi J , Yoo Y , et al. Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning[C]// IEEE Conference on Computer Vision & Pattern Recognition. IEEE, 2017. [Paper](https://www.researchgate.net/profile/Sangdoo_Yun/publication/319164402_Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning/links/59967a6a458515017ea77dd2/Action-Decision-Networks-for-Visual-Tracking-with-Deep-Reinforcement-Learning.pdf) [Code](https://github.com/hellbell/ADNet) [Code2](https://github.com/aseuteurideu/ADNet_pytorch)
 
